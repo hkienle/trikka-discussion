@@ -25,4 +25,4 @@ More information about the Issues functionality can be found in the [documentati
 
 ## license
 
-All content is licensed with CC Zero, refer to [LICENSE.md](LICENSE.md). This means that anything your content is also governed by this license, which basicallly means that you will waive your copyright!
+All content is licensed with CC Zero, refer to [LICENSE](LICENSE). This means that anything your content is also governed by this license, which basicallly means that you will waive your copyright!
